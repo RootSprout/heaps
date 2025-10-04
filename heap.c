@@ -27,6 +27,13 @@ int main(){
     char *p3 = malloc(64);
     char *p4 = malloc(64);
     char *p5 = malloc(64);
+
+    free(p1);
+    free(p2);
+    free(p3);
+    free(p4);
+    free(p5);
+    
     return 0;
 
 }
