@@ -23,3 +23,4 @@ heap bins
 ## References
 - https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
 - https://heap-exploitation.dhavalkapil.com/heap_memory
+- https://infosecwriteups.com/the-toddlers-introduction-to-heap-exploitation-part-1-515b3621e0e8
