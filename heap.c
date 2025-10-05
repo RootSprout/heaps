@@ -14,8 +14,6 @@ int main(){
 
     printf("Freed a, b, c\n");
 
-    printf("Freed a, b, c\n");
-
     //Allocate again (tcache will reuse freed chunks)
     char *d = malloc(0x20); //32 bytes
     char *e = malloc(0x20);
@@ -33,7 +31,7 @@ int main(){
     free(p3);
     free(p4);
     free(p5);
-    
+
     return 0;
 
 }
