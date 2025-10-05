@@ -21,5 +21,5 @@ heap bins
 ```
 
 ## References
-https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
-https://heap-exploitation.dhavalkapil.com/heap_memory
+- https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
+- https://heap-exploitation.dhavalkapil.com/heap_memory
